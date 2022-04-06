@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@400;700&family=Ubuntu&display=swap');
+
+
+html {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    margin: 0;
+}
